@@ -20,7 +20,7 @@
 
 ## 🚀 Featured Project
 ### [🤖 PyRemote-AI](https://github.com/Akhilesh-Ankur09/PyRemote-AI)
-> A Python-based AI automation tool that fetches remote job listings from **RemoteOK** and **WeWorkRemotely**, filters them using personalized keywords, and delivers them directly to your Gmail inbox.
+> A Python-based AI automation tool that fetches remote job listings from **RemoteOK** and **WeWorkRemotely**, filters them using Enhanced hybrid AI job matching with domain isolation, improved semantic filtering, and UI logo integration and delivers them directly to your Gmail inbox. 
 
 ---
 
