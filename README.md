@@ -14,7 +14,7 @@
 ---
 
 ## 🔧 Tech Stack
-`Python` | `Flask` | `Pandas` | `BeautifulSoup` | `n8n` | `Git` | `API Integration` | `Automation` | `AI/ML`
+`Python` | `Flask` |`Flutter` | `Pandas` | `BeautifulSoup` | `n8n` | `Git` | `API Integration` | `Automation` | `AI/ML`
 
 ---
 
