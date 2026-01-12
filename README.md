@@ -1,4 +1,4 @@
-# Akhilesh Ankur — Data Scientist & Machine Learning Engineer
+# Akhilesh Ankur — Data Science & Machine Learning Consultant | AI Automation Engineer
 
 I build business-focused data science and machine learning solutions that help companies make smarter, faster, and more profitable decisions.
 
