@@ -119,6 +119,6 @@ If you're looking for a reliable data science partner to build intelligent syste
 ## Contact
 
 * GitHub: [https://github.com/Akhilesh-Ankur09](https://github.com/Akhilesh-Ankur09)
-* Email: akhilesh.ankur5510@gmail.com
+* Email: akhilesh.ankur5510@gmail.com / akhilkumarcr07@gmail.com
 
 More projects coming soon.
