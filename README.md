@@ -1,36 +1,124 @@
-# 👋 Hi, I'm Akhilesh Ankur
+# Akhilesh Ankur — Data Scientist & Machine Learning Engineer
 
-🎯 **AI & Automation Engineer | MCA '24 | Python Developer | JLPT N5 Learner**  
-🌏 Building intelligent automation systems with a goal to contribute to Japan's tech ecosystem.
+I build business-focused data science and machine learning solutions that help companies make smarter, faster, and more profitable decisions.
 
----
-
-## 💡 About Me
-- 🧠 Passionate about **AI-driven automation** and **workflow optimization**
-- 🐍 Skilled in **Python**, **Machine Learning**, and **Data Analytics**
-- 🇯🇵 Learning Japanese (JLPT N5) — aspiring to work in Japan’s AI industry
-- 💼 Actively building open-source projects like **[PyRemote-AI](https://github.com/Akhilesh-Ankur09/PyRemote-AI)**
+I specialize in designing end-to-end systems — from raw data to intelligent dashboards and deployed AI models.
 
 ---
 
-## 🔧 Tech Stack
-`Python` | `Flask` |`Flutter` | `Pandas` | `BeautifulSoup` | `n8n` | `Git` | `API Integration` | `Automation` | `AI/ML`
+## What I Do
+
+I help businesses solve real-world problems using data and AI:
+
+* Predictive analytics and forecasting systems
+* Machine learning model development
+* Data analysis and visualization
+* Business intelligence dashboards
+* AI automation and workflow systems
+
+My solutions are production-ready, well-documented, and designed for real business use.
 
 ---
 
-## 🚀 Featured Project
-### [🤖 PyRemote-AI](https://github.com/Akhilesh-Ankur09/PyRemote-AI)
-> A Python-based AI automation tool that fetches remote job listings from **RemoteOK** and **WeWorkRemotely**, filters them using Enhanced hybrid AI job matching with domain isolation, improved semantic filtering, and UI logo integration and delivers them directly to your Gmail inbox. 
+## Tech Stack
+
+**Languages & Core**
+
+* Python
+* SQL
+
+**Data Science & Machine Learning**
+
+* Pandas, NumPy
+* Scikit-learn
+* Machine Learning (Regression, Classification, Clustering)
+
+**Visualization & Dashboards**
+
+* Matplotlib, Seaborn
+* Streamlit
+
+**Automation & Engineering**
+
+* Git & GitHub
+* Docker
+* Workflow Automation (n8n)
 
 ---
 
-## 📈 GitHub Stats
-![Akhilesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akhilesh-Ankur09&show_icons=true&theme=tokyonight)
+## Portfolio Projects
+
+### Sales Prediction System
+
+A machine learning system that predicts future product sales using historical data, pricing, and business metrics.
+
+**Use Case:**
+Sales forecasting, inventory planning, business strategy
+
+**Tech:**
+Python, Pandas, Scikit-learn, Streamlit
 
 ---
 
-## 📫 Connect With Me
-[LinkedIn](https://www.linkedin.com/in/akhilesh-ankur-3354712aa) | [GitHub](https://github.com/Akhilesh-Ankur09)
+### Customer Segmentation System
+
+An AI-powered system that groups customers based on purchasing behavior for targeted marketing.
+
+**Use Case:**
+Marketing optimization, customer profiling
+
+**Tech:**
+Python, Pandas, Clustering Models, Visualization
 
 ---
-✨ _"Transforming workflows with code, logic, and automation."_ ✨
+
+### Business Intelligence Dashboard
+
+An interactive dashboard for monitoring KPIs, trends, and performance metrics.
+
+**Use Case:**
+Executive reporting, data-driven decision making
+
+**Tech:**
+Python, Streamlit, Data Visualization
+
+---
+
+### AI Automation Pipelines
+
+End-to-end automation systems for content creation, data processing, and business workflows.
+
+**Use Case:**
+Business process automation, AI-driven operations
+
+**Tech:**
+Python, AI Models, n8n, APIs
+
+---
+
+## Professional Approach
+
+* Clean, maintainable code
+* Reproducible environments
+* Clear documentation
+* Business-oriented thinking
+* Client-first delivery
+
+I focus on building solutions that are not only technically strong but also commercially valuable.
+
+---
+
+## Availability
+
+Open to freelance, consulting, and long-term collaborations.
+
+If you're looking for a reliable data science partner to build intelligent systems for your business, feel free to connect.
+
+---
+
+## Contact
+
+* GitHub: [https://github.com/Akhilesh-Ankur09](https://github.com/Akhilesh-Ankur09)
+* Email: akhilesh.ankur5510@gmail.com
+
+More projects coming soon.
