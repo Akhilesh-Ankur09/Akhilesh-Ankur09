@@ -48,51 +48,24 @@ My solutions are production-ready, well-documented, and designed for real busine
 
 ## Portfolio Projects
 
-### Sales Prediction System
+### Retail Sales Forecasting System — AI Business Intelligence Platform
 
-A machine learning system that predicts future product sales using historical data, pricing, and business metrics.
+A production-grade machine learning system for forecasting weekly retail store sales using real-world business data.
+Includes automated pipeline, business analytics, explainable AI, and an interactive forecasting dashboard.
 
-**Use Case:**
-Sales forecasting, inventory planning, business strategy
-
-**Tech:**
-Python, Pandas, Scikit-learn, Streamlit
-
----
-
-### Customer Segmentation System
-
-An AI-powered system that groups customers based on purchasing behavior for targeted marketing.
-
-**Use Case:**
-Marketing optimization, customer profiling
-
-**Tech:**
-Python, Pandas, Clustering Models, Visualization
+**Use Case:** Retail demand forecasting, inventory planning, revenue prediction
+**Tech:** Python, Machine Learning, Business Intelligence, Streamlit Dashboard
+**Repository:** [https://github.com/Akhilesh-Ankur09/sales-prediction-system](https://github.com/Akhilesh-Ankur09/sales-prediction-system)
 
 ---
 
-### Business Intelligence Dashboard
+### PyRemote-AI — AI-Powered Remote Job Discovery System
 
-An interactive dashboard for monitoring KPIs, trends, and performance metrics.
+An intelligent automation tool that scrapes remote job platforms, filters jobs based on role and experience, and sends real-time job alerts via email.
 
-**Use Case:**
-Executive reporting, data-driven decision making
-
-**Tech:**
-Python, Streamlit, Data Visualization
-
----
-
-### AI Automation Pipelines
-
-End-to-end automation systems for content creation, data processing, and business workflows.
-
-**Use Case:**
-Business process automation, AI-driven operations
-
-**Tech:**
-Python, AI Models, n8n, APIs
+**Use Case:** Automated job discovery, lead generation, data scraping, notification systems
+**Tech:** Python, Web Scraping, AI Filtering, Email Automation
+**Repository:** [https://github.com/Akhilesh-Ankur09/PyRemote-AI](https://github.com/Akhilesh-Ankur09/PyRemote-AI)
 
 ---
 
