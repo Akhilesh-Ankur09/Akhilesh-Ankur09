@@ -44,11 +44,11 @@ Scikit-learn
 
 ## ⭐ Featured Projects
 
-### 🔹 AI Remote Job Discovery Automation
-Python system that automatically discovers remote job opportunities and sends curated email notifications.
+🔹 **AI Media Generation Pipeline**
 
-Repository:
-👉 https://github.com/Akhilesh-Ankur09/PyRemote-AI
+Automated Generative AI pipeline that creates educational videos using **Gemini LLM, text-to-speech synthesis, media retrieval, subtitle alignment, and automated video composition**.
+
+Repository: 👉 https://github.com/Akhilesh-Ankur09/multimodal-genai-video-pipeline
 
 ---
 
@@ -60,8 +60,11 @@ Repository:
 
 ---
 
-### 🔹 AI Media Generation Pipeline
-Automated AI system that generates and validates media content using multimodal models.
+### 🔹 AI Remote Job Discovery Automation
+Python system that automatically discovers remote job opportunities and sends curated email notifications.
+
+Repository:
+👉 https://github.com/Akhilesh-Ankur09/PyRemote-AI
 
 ---
 
